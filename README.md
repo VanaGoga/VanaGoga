@@ -1,11 +1,11 @@
 <!-- ⚡ HEADER BANNER ⚡ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00E5FF&height=200&section=header&text=Savva%20%C2%B7%20VanaGoga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20who%20ships%20products&descAlignY=60&descSize=18" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00E5FF&height=200&section=header&text=Savva%20%C2%B7%20VanaGoga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20who%20ships%20products&descAlignY=60&descSize=17" alt="banner" />
 
 <div align="center">
 
 <!-- 🖋 ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=560&lines=%F0%9F%90%9E+QA+Engineer+who+ships+products;%F0%9F%8D%8F+Indie+iOS+Developer+%C2%B7+SwiftUI;%F0%9F%8E%AE+Full-stack+%26+GameDev;%E2%9C%A8+I+break+software+before+release" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=560&lines=%F0%9F%90%9E+QA+Automation+Engineer;%F0%9F%A4%96+Python+%C2%B7+Playwright+%C2%B7+autotests;%F0%9F%8D%8F+Indie+iOS+Developer+%C2%B7+SwiftUI;%F0%9F%8E%AE+Full-stack+%26+GameDev" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,13 +24,13 @@
 
 ```yaml
 name:        Savva (VanaGoga)
-role:        QA Engineer  →  Indie Developer
-focus:       ["manual & regression testing", "iOS/SwiftUI", "full-stack", "gamedev"]
+role:        QA Automation Engineer  →  Indie Developer
+focus:       ["test automation", "manual & regression testing", "iOS/SwiftUI", "gamedev"]
 philosophy:  "A great tester knows how software breaks — because they know how to build it."
 currently:   ⚙️ building Focusly, TMatching and a mobile game RushHeroes
 ```
 
-- 🐞 **QA Engineer**: manual & regression testing, test documentation, quality assurance
+- 🐞 **QA Automation Engineer**: test automation with **Python · Playwright**, manual & regression testing, test documentation, quality assurance
 - 🛠 **Developer**: from native iOS apps in SwiftUI to full-stack web services and Unity games
 - 🧩 I love taking a product all the way from idea and GDD to a shipped release
 - 📫 Reach me: **[Telegram → @Svv_Or](https://t.me/Svv_Or)**
