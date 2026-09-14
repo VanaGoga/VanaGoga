@@ -167,7 +167,7 @@ A mobile **Arcade Idle + Action PvP** game with a full Game Design Document.
 A native iOS to-do list app.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/todolist/list.png" width="44%" alt="Task list" />
+  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/todolist/list.png" width="34%" alt="Task list" />
 </p>
 
 ### 🧪 [QA-Engineer](https://github.com/VanaGoga/QA-Engineer) · <sub>public</sub>
