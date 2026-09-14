@@ -81,7 +81,7 @@ currently:   ⚙️ building Focusly, TMatching and a mobile game RushHeroes
 
 ## 🚀 Projects
 
-> ⭐ Flagship projects live in private repos for now — here's a peek at what's inside.
+> ⭐ Flagship projects live in private repos for now — but every screenshot below is a real build, captured from the running app.
 
 <table>
 <tr>
@@ -89,22 +89,50 @@ currently:   ⚙️ building Focusly, TMatching and a mobile game RushHeroes
 
 ### 🐱⏱ Focusly · <sub>private</sub>
 A focus timer for people with **ADHD** with a "protect your pet" game mechanic (body doubling).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/home.png" width="32%" alt="Mission setup" />
+  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/focus.png" width="32%" alt="Focus timer" />
+  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/done.png" width="32%" alt="Mission complete" />
+</p>
+
 - EXP economy grounded in deep-work research
 - Anti-cheat, procedural "brown noise" via `AVAudioEngine`
 - Dark neon theme, haptics, confetti
 
 `Swift` · `SwiftUI` · `iOS 17+`
 
+<details>
+<summary>📸 <b>More screens</b> — support feed, pets & levels</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/feed.png" width="48%" alt="Support feed" />
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/profile.png" width="48%" alt="Profile and pets" />
+</details>
+
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 TMatching · <sub>private</sub>
 A service for quickly finding **teammates** for online games — two-way match like Tinder.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/feed.png" width="98%" alt="Player feed" />
+</p>
+
 - Steam OpenID authentication
 - Real-time via a custom WebSocket hub
 - Game catalog synced from the IGDB API
 
 `React` · `TypeScript` · `Go` · `PostgreSQL`
+
+<details>
+<summary>📸 <b>More screens</b> — match, requests, chat, profile</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/match.png" width="48%" alt="Match modal" />
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/requests.png" width="48%" alt="Incoming requests" />
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/chat.png" width="48%" alt="Real-time chat" />
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/profile.png" width="48%" alt="Profile settings" />
+</details>
 
 </td>
 </tr>
@@ -113,17 +141,34 @@ A service for quickly finding **teammates** for online games — two-way match l
 
 ### 🦸 RushHeroes · <sub>private</sub>
 A mobile **Arcade Idle + Action PvP** game with a full Game Design Document.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/menu.jpg" width="98%" alt="Main menu" />
+</p>
+
 - Core loop: capture zones → farm → towers → assault the base
 - 1v1 / 2v2 / 3v3 formats
 - Custom shaders
 
 `Unity` · `C#` · `HLSL`
 
+<details>
+<summary>📸 <b>More screens</b> — battle HUD, units, commanders</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/hud.jpg" width="98%" alt="Battle HUD" />
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/units.jpg" width="48%" alt="Units" />
+<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/commanders.jpg" width="48%" alt="Commanders" />
+</details>
+
 </td>
 <td width="50%" valign="top">
 
 ### ✅ [ToDoList](https://github.com/VanaGoga/ToDoList) · <sub>public</sub>
 A native iOS to-do list app.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/todolist/list.png" width="44%" alt="Task list" />
+</p>
 
 ### 🧪 [QA-Engineer](https://github.com/VanaGoga/QA-Engineer) · <sub>public</sub>
 QA showcase: regression test cases and requirements verification (Mesto, Yandex Maps).
