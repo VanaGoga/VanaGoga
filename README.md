@@ -1,102 +1,95 @@
 <!-- ⚡ HEADER BANNER ⚡ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00E5FF&height=200&section=header&text=Savva%20%C2%B7%20VanaGoga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20who%20ships%20products&descAlignY=60&descSize=17" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:142E26,50:315541,100:70795A&amp;height=200&amp;section=header&amp;text=Savva%20Oreshin&amp;fontSize=52&amp;fontColor=F1E5D0&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=QA%20Automation%20Engineer%20%C2%B7%20Indie%20Developer&amp;descAlignY=60&amp;descSize=17" alt="Savva Oreshin — QA Automation Engineer · Indie Developer" />
 
 <div align="center">
 
-<!-- 🖋 ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=560&lines=%F0%9F%90%9E+QA+Automation+Engineer;%F0%9F%A4%96+Python+%C2%B7+Playwright+%C2%B7+autotests;%F0%9F%8D%8F+Indie+iOS+Developer+%C2%B7+SwiftUI;%F0%9F%8E%AE+Full-stack+%26+GameDev" alt="Typing SVG" />
-</a>
+<!-- Animated text, with colors for both GitHub themes. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1400&amp;color=B6CBA5&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=54&amp;lines=QA+Automation+Engineer%3BPython+%C2%B7+Playwright+%C2%B7+API+Testing%3BIndie+Developer+%C2%B7+SwiftUI+%C2%B7+Unity%3BTest+%C2%B7+Build+%C2%B7+Improve+%C2%B7+Repeat" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1400&amp;color=3E654B&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=54&amp;lines=QA+Automation+Engineer%3BPython+%C2%B7+Playwright+%C2%B7+API+Testing%3BIndie+Developer+%C2%B7+SwiftUI+%C2%B7+Unity%3BTest+%C2%B7+Build+%C2%B7+Improve+%C2%B7+Repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1400&amp;color=3E654B&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=54&amp;lines=QA+Automation+Engineer%3BPython+%C2%B7+Playwright+%C2%B7+API+Testing%3BIndie+Developer+%C2%B7+SwiftUI+%C2%B7+Unity%3BTest+%C2%B7+Build+%C2%B7+Improve+%C2%B7+Repeat" width="620" alt="QA Automation Engineer · Python · Playwright · Indie Developer · Test, Build, Improve, Repeat" />
+</picture>
 
 <br/>
 
-<!-- 👀 VISITOR BADGE + FOLLOW -->
-<img src="https://komarev.com/ghpvc/?username=VanaGoga&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="views" />
+<!-- GitHub follow -->
 <a href="https://github.com/VanaGoga?tab=followers">
-  <img src="https://img.shields.io/github/followers/VanaGoga?label=Follow&style=for-the-badge&color=FF1493&labelColor=1c1c2e" alt="followers" />
+  <img src="https://img.shields.io/github/followers/VanaGoga?label=Follow&amp;style=for-the-badge&amp;color=49674C&amp;labelColor=243A2D" alt="followers" />
 </a>
 
 </div>
 
 ---
 
-## 🧑‍🚀 About me
+## About me
 
-```yaml
-name:        Savva (VanaGoga)
-role:        QA Automation Engineer  →  Indie Developer
-focus:       ["test automation", "manual & regression testing", "iOS/SwiftUI", "gamedev"]
-philosophy:  "A great tester knows how software breaks — because they know how to build it."
-currently:   ⚙️ building Focusly, TMatching and a mobile game RushHeroes
-```
+I'm **Savva Oreshin**, a **QA Automation Engineer** with a strong interest in building products.
 
-- 🐞 **QA Automation Engineer**: test automation with **Python · Playwright**, manual & regression testing, test documentation, quality assurance
-- 🛠 **Developer**: from native iOS apps in SwiftUI to full-stack web services and Unity games
-- 🧩 I love taking a product all the way from idea and GDD to a shipped release
-- 📫 Reach me: **[Telegram → @Svv_Or](https://t.me/Svv_Or)**
-
+- **QA comes first:** Python and Playwright automation, API and web testing, manual and regression testing, and test documentation.
+- **Outside of work:** I build personal iOS, web and Unity projects to understand how products are designed, built and tested.
+- **QA portfolio:** [QA-Engineer](https://github.com/VanaGoga/QA-Engineer) — regression testing and requirements verification.
 ---
 
 ## 🧰 Tech stack & tools
 
+**QA / Testing**
+<p>
+  <img src="https://img.shields.io/badge/Playwright-315541?style=for-the-badge&amp;logo=playwright&amp;logoColor=F1E5D0" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Postman-315541?style=for-the-badge&amp;logo=postman&amp;logoColor=F1E5D0" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-315541?style=for-the-badge&amp;logo=jira&amp;logoColor=F1E5D0" alt="Jira" />
+  <img src="https://img.shields.io/badge/YouTrack-315541?style=for-the-badge&amp;logo=jetbrains&amp;logoColor=F1E5D0" alt="YouTrack" />
+  <img src="https://img.shields.io/badge/Confluence-315541?style=for-the-badge&amp;logo=confluence&amp;logoColor=F1E5D0" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Trello-315541?style=for-the-badge&amp;logo=trello&amp;logoColor=F1E5D0" alt="Trello" />
+  <img src="https://img.shields.io/badge/Figma-315541?style=for-the-badge&amp;logo=figma&amp;logoColor=F1E5D0" alt="Figma" />
+</p>
+
 **Development**
 <p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0055FF?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-315541?style=for-the-badge&amp;logo=swift&amp;logoColor=F1E5D0" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-315541?style=for-the-badge&amp;logo=swift&amp;logoColor=F1E5D0" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/TypeScript-315541?style=for-the-badge&amp;logo=typescript&amp;logoColor=F1E5D0" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-315541?style=for-the-badge&amp;logo=react&amp;logoColor=F1E5D0" alt="React" />
+  <img src="https://img.shields.io/badge/Go-315541?style=for-the-badge&amp;logo=go&amp;logoColor=F1E5D0" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-315541?style=for-the-badge&amp;logo=csharp&amp;logoColor=F1E5D0" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-315541?style=for-the-badge&amp;logo=unity&amp;logoColor=F1E5D0" alt="Unity" />
+  <img src="https://img.shields.io/badge/Python-315541?style=for-the-badge&amp;logo=python&amp;logoColor=F1E5D0" alt="Python" />
 </p>
 
 **Backend / Infrastructure**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-**QA / Testing**
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-315541?style=for-the-badge&amp;logo=postgresql&amp;logoColor=F1E5D0" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-315541?style=for-the-badge&amp;logo=docker&amp;logoColor=F1E5D0" alt="Docker" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-315541?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=F1E5D0" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-315541?style=for-the-badge&amp;logo=git&amp;logoColor=F1E5D0" alt="Git" />
 </p>
 
 **Editors & DB tools**
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-315541?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=F1E5D0" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-315541?style=for-the-badge&amp;logo=pycharm&amp;logoColor=F1E5D0" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/DataGrip-315541?style=for-the-badge&amp;logo=datagrip&amp;logoColor=F1E5D0" alt="DataGrip" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-> ⭐ Flagship projects live in private repos for now — but every screenshot below is a real build, captured from the running app.
+> Personal projects · **Private and in development**. Every screenshot below is from an existing build.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐱⏱ Focusly · <sub>private</sub>
+### 🐱⏱ Focusly · <sub>Private · In development</sub>
 A focus timer for people with **ADHD** with a "protect your pet" game mechanic (body doubling).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/home.png" width="32%" alt="Mission setup" />
-  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/focus.png" width="32%" alt="Focus timer" />
-  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/done.png" width="32%" alt="Mission complete" />
+  <img src="assets/focusly/home.png" width="32%" alt="Mission setup" />
+  <img src="assets/focusly/focus.png" width="32%" alt="Focus timer" />
+  <img src="assets/focusly/done.png" width="32%" alt="Mission complete" />
 </p>
 
-- EXP economy grounded in deep-work research
+- Virtual pets and EXP progression
 - Anti-cheat, procedural "brown noise" via `AVAudioEngine`
 - Dark neon theme, haptics, confetti
 
@@ -105,18 +98,18 @@ A focus timer for people with **ADHD** with a "protect your pet" game mechanic (
 <details>
 <summary>📸 <b>More screens</b> — support feed, pets & levels</summary>
 <br/>
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/feed.png" width="48%" alt="Support feed" />
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/focusly/profile.png" width="48%" alt="Profile and pets" />
+<img src="assets/focusly/feed.png" width="48%" alt="Support feed" />
+<img src="assets/focusly/profile.png" width="48%" alt="Profile and pets" />
 </details>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 TMatching · <sub>private</sub>
+### 🎮 TMatching · <sub>Private · In development</sub>
 A service for quickly finding **teammates** for online games — two-way match like Tinder.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/feed.png" width="98%" alt="Player feed" />
+  <img src="assets/tmatching/feed.png" width="98%" alt="Player feed" />
 </p>
 
 - Steam OpenID authentication
@@ -128,10 +121,10 @@ A service for quickly finding **teammates** for online games — two-way match l
 <details>
 <summary>📸 <b>More screens</b> — match, requests, chat, profile</summary>
 <br/>
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/match.png" width="48%" alt="Match modal" />
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/requests.png" width="48%" alt="Incoming requests" />
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/chat.png" width="48%" alt="Real-time chat" />
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/tmatching/profile.png" width="48%" alt="Profile settings" />
+<img src="assets/tmatching/match.png" width="48%" alt="Match modal" />
+<img src="assets/tmatching/requests.png" width="48%" alt="Incoming requests" />
+<img src="assets/tmatching/chat.png" width="48%" alt="Real-time chat" />
+<img src="assets/tmatching/profile.png" width="48%" alt="Profile settings" />
 </details>
 
 </td>
@@ -139,15 +132,15 @@ A service for quickly finding **teammates** for online games — two-way match l
 <tr>
 <td width="50%" valign="top">
 
-### 🦸 RushHeroes · <sub>private</sub>
-A mobile **Arcade Idle + Action PvP** game with a full Game Design Document.
+### 🦸 RushHeroes · <sub>Private · In development</sub>
+A mobile **RTS / survival / PvP** project with an arcade-idle loop and a Game Design Document.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/menu.jpg" width="98%" alt="Main menu" />
+  <img src="assets/rushheroes/menu.jpg" width="98%" alt="Main menu" />
 </p>
 
 - Core loop: capture zones → farm → towers → assault the base
-- 1v1 / 2v2 / 3v3 formats
+- Planned 1v1 / 2v2 / 3v3 formats
 - Custom shaders
 
 `Unity` · `C#` · `HLSL`
@@ -155,20 +148,13 @@ A mobile **Arcade Idle + Action PvP** game with a full Game Design Document.
 <details>
 <summary>📸 <b>More screens</b> — battle HUD, units, commanders</summary>
 <br/>
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/hud.jpg" width="98%" alt="Battle HUD" />
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/units.jpg" width="48%" alt="Units" />
-<img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/rushheroes/commanders.jpg" width="48%" alt="Commanders" />
+<img src="assets/rushheroes/hud.jpg" width="98%" alt="Battle HUD" />
+<img src="assets/rushheroes/units.jpg" width="48%" alt="Units" />
+<img src="assets/rushheroes/commanders.jpg" width="48%" alt="Commanders" />
 </details>
 
 </td>
 <td width="50%" valign="top">
-
-### ✅ [ToDoList](https://github.com/VanaGoga/ToDoList) · <sub>public</sub>
-A native iOS to-do list app.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VanaGoga/VanaGoga/main/assets/todolist/list.png" width="34%" alt="Task list" />
-</p>
 
 ### 🧪 [QA-Engineer](https://github.com/VanaGoga/QA-Engineer) · <sub>public</sub>
 QA showcase: regression test cases and requirements verification (Mesto, Yandex Maps).
@@ -199,12 +185,12 @@ QA showcase: regression test cases and requirements verification (Mesto, Yandex 
 ### 💬 Let's talk
 
 <a href="https://t.me/Svv_Or">
-  <img src="https://img.shields.io/badge/Telegram-@Svv__Or-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@Svv__Or-786748?style=for-the-badge&amp;logo=telegram&amp;logoColor=F1E5D0" alt="telegram" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF1493,100:8A2BE2&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:70795A,50:315541,100:142E26&amp;height=120&amp;section=footer" alt="footer" />
 
 <sub>⭐ Thanks for stopping by! Test responsibly 🐞</sub>
 
